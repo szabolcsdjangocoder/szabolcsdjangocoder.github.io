@@ -1,7 +1,5 @@
 User-agent: *
-Disallow: /folder1/
-
-User-agent: *
 Allow: /
+Disallow: /folder1/
 
 Sitemap: http://www.example.com/sitemap.xml
